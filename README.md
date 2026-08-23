@@ -78,7 +78,7 @@ The project was intentionally developed using Python fundamentals.
 GroupDNA-WhatsApp-Chat-Analyzer/
 │
 ├── GroupDNA_Anchal.ipynb
-├── cse_2026_survival_squad_10_members.txt
+├── hostel_bois.txt
 └── README.md
 ```
 ## 👩‍💻 Developed By
